@@ -1,0 +1,14 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Pr\351sentation du projet}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Algorithme}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Minimax}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.2}{AlphaBeta}{chapter.2}% 5
+\BOOKMARK [0][-]{chapter.3}{Analyse de donn\351es }{}% 6
+\BOOKMARK [1][-]{section.3.1}{Nombre de n\234uds}{chapter.3}% 7
+\BOOKMARK [2][-]{subsection.3.1.1}{Par tour}{section.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.1.2}{Par profondeur}{section.3.1}% 9
+\BOOKMARK [1][-]{section.3.2}{Taux de victoire par rapport a la profondeur et au nombre de coups d'avance}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.3}{analyse de temps}{chapter.3}% 11
+\BOOKMARK [0][-]{chapter.4}{Bilan}{}% 12
+\BOOKMARK [1][-]{section.4.1}{Probl\350mes rencontr\351es}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.2}{Conclusion}{chapter.4}% 14
