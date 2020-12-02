@@ -28,3 +28,7 @@
 - Si vous avez choisit human alors quand c'est votre tour vous devez choisir votre coup
 - Vous avez l'affichage de la grille ainsi que la liste des coups valides
 - Le programme demande successivement un x, un y, un type de move
+
+### Liens utiles :
+
+- https://en.wikipedia.org/wiki/Minimax
