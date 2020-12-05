@@ -6,9 +6,9 @@
 - Thomas Gignoux : 21805697 groupe 2A L2 informatique
 
 ## Table des matières
-1. [Fonctionnement](#Fonctionnement)
-2. [Regles du jeu](#Regles-du-jeu)
-3. [Liens utiles](#Liens-utiles)
+1. [Fonctionnement](#fonctionnement)
+2. [Regles du jeu](#regles-du-jeu)
+3. [Liens utiles](#liens-utiles)
 
 ## Fonctionnement :
 
