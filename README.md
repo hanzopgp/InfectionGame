@@ -1,14 +1,15 @@
 # Jeu d'infection IA
 
+## Table des matières
+1. [Auteurs](#projet-conçu)
+2. [Fonctionnement](#fonctionnement)
+3. [Regles du jeu](#regles-du-jeu)
+4. [Liens utiles](#liens-utiles)
+
 ## Projet conçu par :
 
 - Enzo Durand : 21510242, groupe 2A L2 informatique
 - Thomas Gignoux : 21805697 groupe 2A L2 informatique
-
-## Table des matières
-1. [Fonctionnement](#fonctionnement)
-2. [Regles du jeu](#regles-du-jeu)
-3. [Liens utiles](#liens-utiles)
 
 ## Fonctionnement :
 
@@ -34,6 +35,6 @@
 - Vous avez l'affichage de la grille ainsi que la liste des coups valides
 - Le programme demande successivement un x, un y, un type de move
 
-### Liens utiles :
+## Liens utiles :
 
 - https://en.wikipedia.org/wiki/Minimax
