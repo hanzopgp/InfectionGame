@@ -7,8 +7,8 @@
 
 ## Table des matières
 1. [Fonctionnement](##Fonctionnement)
-2. [Regles du jeu](##Regles du jeu)
-3. [Liens utiles](##Liens utiles)
+2. [Regles du jeu](##Regles-du-jeu)
+3. [Liens utiles](##Liens-utiles)
 
 ## Fonctionnement :
 
