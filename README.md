@@ -1,10 +1,10 @@
 # Jeu d'infection IA
 
 ## Table des matières
-1. [Auteurs](#projet-conçu)
-2. [Fonctionnement](#fonctionnement)
-3. [Regles du jeu](#regles-du-jeu)
-4. [Liens utiles](#liens-utiles)
+1. [Auteurs](#projet-conçu-)
+2. [Fonctionnement](#fonctionnement-)
+3. [Regles du jeu](#regles-du-jeu-)
+4. [Liens utiles](#liens-utiles-)
 
 ## Projet conçu par :
 
